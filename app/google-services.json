@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1035002268794",
+    "firebase_url": "https://uploadfirebase-204f1.firebaseio.com",
+    "project_id": "uploadfirebase-204f1",
+    "storage_bucket": "uploadfirebase-204f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035002268794:android:b4d075a98a358893",
+        "android_client_info": {
+          "package_name": "com.example.nemo1.smartframe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035002268794-mfqrsvh383t54to5sv02u8o5brnhl838.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nemo1.smartframe",
+            "certificate_hash": "42cd6dc3d688b5cbf064846b62723e2e1353b90e"
+          }
+        },
+        {
+          "client_id": "1035002268794-96jol1q6r56n24lpom8p2a7iu8amrvjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmfrTvn3qq0XcMNiHcWU8yTekpKHtwbyw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035002268794-96jol1q6r56n24lpom8p2a7iu8amrvjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035002268794:android:bd4e78addcd7d720",
+        "android_client_info": {
+          "package_name": "com.example.nemo1.upload_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035002268794-5gm2jeckng9nvvi6mlc2ikqik8v5jp0h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nemo1.upload_firebase",
+            "certificate_hash": "42cd6dc3d688b5cbf064846b62723e2e1353b90e"
+          }
+        },
+        {
+          "client_id": "1035002268794-96jol1q6r56n24lpom8p2a7iu8amrvjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmfrTvn3qq0XcMNiHcWU8yTekpKHtwbyw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035002268794-96jol1q6r56n24lpom8p2a7iu8amrvjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
